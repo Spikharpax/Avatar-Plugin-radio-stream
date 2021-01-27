@@ -25,9 +25,6 @@ exports.action = function(data, callback){
 
 
 function start (data, client) {
-
-	// Exemple d'action
-	// Remplacez le speak par votre action
 	Avatar.askme("Qu'est-ce que tu veux écouter ?|Tu veux quoi ?", data.client,
  		 {
  				 "*": "generic",
