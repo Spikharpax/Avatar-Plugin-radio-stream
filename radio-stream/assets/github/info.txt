@@ -1,0 +1,3 @@
+Ecoutez votre radio préférée avec Radio-Stream !
+
+Ce plugin est multirooms, vous pouvez aussi l'utilisez comme base d'exemple pour concevoir vos propres plugins multirooms !
