@@ -23,12 +23,20 @@ Il peut arriver que les adresses ne soient pas bonnes, cherchez alors sur d'autr
 ### Règles
 Ce plugin est multirooms, si vous ne précisez pas le nom de la pièce avec la règle, la radio est jouée sur le client courant.
 
+**Lancer une radio:**
 - radio
 - radio dans le Salon
 - Démarre la radio
 - Démarre la radio dans la chambre
+
+Avatar vous demande ensuite qu'est ce que vous voulez écouter.
+Dites le nom de la radio ou "Terminer" pour arrêter.
+
+**Stopper la radio:**
 - Stop la radio
 - Arrête la radio dans la chambre
+
+Vous pouvez ajouter aussi vos propres règles.
 
 ### Autre paramètre
 Le paramètre "timeout_start" vous permet d'augmenter la temporisation du lancement de la radio après avoir dicté la règle. Par défaut la valeur est de 2 secondes.
